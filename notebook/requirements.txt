@@ -1,9 +1,0 @@
-pandas
-scipy
-matplotlib
-seaborn
-scikit-learn
-umap-learn
-networkx
-pyensembl
-plotnine
