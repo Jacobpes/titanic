@@ -15,14 +15,11 @@ How I preprosessed the data to get a good percentage:
 5. I made sex to 1/0
 6. I set cabin if the passenger had a cabin to yes/no: 1/0
 7. I simplified embarked to numbers 0,1,2
-8. Numerictitles yes/no: 1/0
+8. Numerictickets yes/no: 1/0
 9. Name: I made Mr number 1 and everything else 0 because all except Mr had a high chance to survive.
 10. I scaled the data with StandardScaler
 11. Trained 5 models on it
 12. Let the models vote softly.
 
-* Note to Users
-This notebook is structured to provide a hands-on approach to EDA, with emphasis on the practical aspects of data science tasks. It is designed as a tool for both novice and experienced data scientists to explore, visualize, and prepare data for modeling.
-
 My username: Jacob_01EDU_Åland_04_2024
-My best score on the leaderboard: 0.80382
+My best score on the leaderboard: 0.80861
